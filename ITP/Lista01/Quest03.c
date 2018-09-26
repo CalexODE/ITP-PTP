@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define ALUNOS 3
+#define ALUNOS 10
 #define MEDIA 5
-#define INFO 2
+#define INFO 3
 
 int main(){
 	int i, j, cont_apr=0, cont_rep=0;
