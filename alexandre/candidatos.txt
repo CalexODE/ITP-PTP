@@ -1,0 +1,10 @@
+1234 candidato1
+4321 candidato2
+2134 candidato3
+3214 candidato4
+4312 candidato5
+1324 candidato6
+4123 candidato7
+4213 candidato8
+3241 candidato9
+0 candidato10
